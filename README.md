@@ -33,6 +33,6 @@ Last month
 Last 3 months
 
 ### 🔒 Security
-Protected routes using ###J WT (JSON Web Tokens).
+Protected routes using ### JWT (JSON Web Tokens).
 
 Middleware for requester identification and authorization
