@@ -1,5 +1,6 @@
 # Expense Tracker API
 A RESTful API backend project built with Node.js, Express.js, and MongoDB, featuring user authentication (JWT), expense management, and filtered expense reporting
+
  ![](images/expense-tracker-api.png)
  ## 🛠️ Tools & Setup:
 ### Prerequisites
